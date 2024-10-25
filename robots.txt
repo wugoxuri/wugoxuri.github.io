@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://wugoxuri.github.io/sitemap/sitemap_index.wugoxuri
+Sitemap: https://wugoxuri.github.io/GRT/sitemap_index.wugoxuri
+Sitemap: https://wugoxuri.github.io/Xdu/sitemap_index.wugoxuri
+Sitemap: https://wugoxuri.github.io/hTk/sitemap_index.wugoxuri
+Sitemap: https://wugoxuri.github.io/dcN/sitemap_index.wugoxuri
+Sitemap: https://wugoxuri.github.io/YTy/sitemap_index.wugoxuri
+Sitemap: https://wugoxuri.github.io/kuJ/sitemap_index.wugoxuri
+Sitemap: https://wugoxuri.github.io/Uix/sitemap_index.wugoxuri
+Sitemap: https://wugoxuri.github.io/EyL/sitemap_index.wugoxuri
+Sitemap: https://wugoxuri.github.io/JXp/sitemap_index.wugoxuri
+Sitemap: https://wugoxuri.github.io/pLq/sitemap_index.wugoxuri
+Sitemap: https://wugoxuri.github.io/NPI/sitemap_index.wugoxuri
+Sitemap: https://wugoxuri.github.io/qyv/sitemap_index.wugoxuri
+Sitemap: https://wugoxuri.github.io/svf/sitemap_index.wugoxuri
+Sitemap: https://wugoxuri.github.io/XBE/sitemap_index.wugoxuri
+Sitemap: https://wugoxuri.github.io/Cvn/sitemap_index.wugoxuri
+Sitemap: https://wugoxuri.github.io/Rfo/sitemap_index.wugoxuri
+Sitemap: https://wugoxuri.github.io/BdT/sitemap_index.wugoxuri
+Sitemap: https://wugoxuri.github.io/VEX/sitemap_index.wugoxuri
+Sitemap: https://wugoxuri.github.io/tQs/sitemap_index.wugoxuri
+Sitemap: https://wugoxuri.github.io/xGX/sitemap_index.wugoxuri
